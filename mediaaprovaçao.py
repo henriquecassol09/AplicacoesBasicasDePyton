@@ -1,6 +1,6 @@
-nota1 = float (input("digite sua primeira nota"))
-nota2 = float (input("digite sua segunda nota"))
-nota3 = float (input("digite sua terceira nota"))
+nota1 = float (input("digite sua primeira nota "))
+nota2 = float (input("digite sua segunda nota "))
+nota3 = float (input("digite sua terceira nota "))
 
 n1 = nota1 * 4
 n2 = nota2 * 3
