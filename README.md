@@ -1,1 +1,1 @@
-Esse repositorio contem apenas apiclações basicas e simles, exercisios apenas para aprender a linguagem usando a pratica.
+Esse repositorio contem apenas aplicações basicas e simles, exercicios apenas para aprender a linguagem usando a pratica.
