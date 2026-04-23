@@ -7,5 +7,3 @@ reajuste = salario * porcentagem
 
 
 print(f"seu salario depois do reajuste de é {reajuste:g}")
-
-#henriquecassol

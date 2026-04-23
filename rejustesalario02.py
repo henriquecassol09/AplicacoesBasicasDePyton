@@ -13,5 +13,3 @@ elif salario > 600 and salario <= 900:
 else:
     reajuste = salario2 + 35
     print(f"seu salario pos reajuste e desconto do imposto de 7% é {reajuste:g}")
-
-#henriquecassol09

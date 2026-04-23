@@ -16,5 +16,3 @@ elif operacao == 4 and n2 != 0:
     print(f" a divisão dos numeros é {r1:g}")
 else:
     print(f"você digitou um numero resultante de operação errada ou a operação é invalida mediante aos numeros")
-
-    #henriquecassol09

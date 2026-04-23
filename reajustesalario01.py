@@ -11,5 +11,3 @@ elif salario > 600 and salario <= 900:
     print(f"seu salario pos reajuste é {reajuste:g}")
 else:
     print("seu salario esta dentro das normas, você não haverá reajuste")
-
-    #henriquecassol09

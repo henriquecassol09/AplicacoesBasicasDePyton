@@ -8,5 +8,3 @@ idadeD = idadeA * 365
 print(f"sua idade em anos é {idadeA:g}")
 print(f"sua idade em meses é {idadeM:g}")
 print(f"sua idade em dias é {idadeD:g}")
-
-#henriquecassol 

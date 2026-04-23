@@ -4,5 +4,3 @@ ante = num - 1
 suse = num + 1
 
 print("o antesesor de {num:g} é {ante:g} e o susesor é {suse:g}")
-
-#henriquecassol
