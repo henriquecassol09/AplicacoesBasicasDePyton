@@ -1,5 +1,6 @@
 senhaCorreta = "1234"
 senhaEntrada = input("Digite a senha: ")
+print(f"vote entre a b c, se não deseja votar a ninguem digite 0, e para parar as votações digite $")
 
 if senhaEntrada == senhaCorreta:
     votosA = 0
